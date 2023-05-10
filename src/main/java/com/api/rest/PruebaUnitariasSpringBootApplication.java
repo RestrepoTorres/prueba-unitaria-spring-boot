@@ -1,4 +1,4 @@
-package com.api.rest.pruebaunitariasspringboot;
+package com.api.rest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
